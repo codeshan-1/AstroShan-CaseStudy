@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Node
+node_modules/
+dist/
+.next/
+out/
+
+# Env
+.env
+.env.local
+.env.*
+
+# Don't commit actual project code if accidental copy
+actual-project-code/
+proprietary/
+client-data/
+
+# Review files (remove before publishing)
+review-output/
+*-analysis-report.md
+FINAL-CHECKLIST.md
+
+# Keep structure but ignore contents if needed (not affecting this repo usually)
+!screenshots/.gitkeep
+!diagrams/.gitkeep
