@@ -737,7 +737,7 @@ Explore detailed documentation:
 <a href="https://codeshan.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-codeshan.vercel.app-7565e3?style=flat-square&logo=vercel"/>
 </a>
-<a href="https://github.com/codeshan">
+<a href="https://github.com/codeshan-1">
   <img src="https://img.shields.io/badge/GitHub-codeshan-181717?style=flat-square&logo=github"/>
 </a>
 </p>
