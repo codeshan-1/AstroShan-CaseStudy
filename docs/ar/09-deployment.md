@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Prev](https://img.shields.io/badge/←_الاختبار-1eb8e4?style=for-the-badge)](08-testing-quality.md)
-[![Next](https://img.shields.io/badge/النتائج_→-7565e3?style=for-the-badge)](10-results-impact.md)
+[![Prev](https://img.shields.io/badge/%E2%86%90_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-1eb8e4)](08-testing-quality.md)
+[![Next](https://img.shields.io/badge/%D8%A7%D9%84%D9%86%D8%AA%D8%A7%D8%A6%D8%AC_%E2%86%92-7565e3)](10-results-impact.md)
 
 </div>
 

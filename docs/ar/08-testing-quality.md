@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Prev](https://img.shields.io/badge/←_الأداء-1eb8e4?style=for-the-badge)](07-performance.md)
-[![Next](https://img.shields.io/badge/النشر_→-7565e3?style=for-the-badge)](09-deployment.md)
+[![Prev](https://img.shields.io/badge/%E2%86%90_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1-1eb8e4)](07-performance.md)
+[![Next](https://img.shields.io/badge/%D8%A7%D9%84%D9%86%D8%B4%D8%B1_%E2%86%92-7565e3)](09-deployment.md)
 
 </div>
 

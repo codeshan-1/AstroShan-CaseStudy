@@ -11,13 +11,13 @@
 
 <p>
   <a href="https://astroshan.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-تجربة_الموقع-1EB8E4?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9-1EB8E4?style=for-the-badge"/>
   </a>
   <a href="#-مسار-التوثيق">
-    <img src="https://img.shields.io/badge/📚_Docs-تصفح_التوثيق-7565E3?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/%F0%9F%93%9A_Docs-%D8%AA%D8%B5%D9%81%D8%AD_%D8%A7%D9%84%D8%AA%D9%88%D8%AB%D9%8A%D9%82-7565E3?style=for-the-badge"/>
   </a>
   <a href="#-إحصائيات-المهمة">
-    <img src="https://img.shields.io/badge/📊_Stats-الإحصائيات-3F54DE?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/%F0%9F%93%8A_Stats-%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA-3F54DE?style=for-the-badge"/>
   </a>
   <a href="README.md">
     <img src="https://img.shields.io/badge/🇺🇸_English-Read_in_English-gray?style=for-the-badge"/>
@@ -642,16 +642,16 @@ mergeProgress(local, cloud) {
 
 | الوثيقة | الوصف |
 |:--------:|:------------|
-| [📋 Overview](docs/01-overview.md) | سياق المشروع والرؤية |
-| [❓ Problem Statement](docs/02-problem-statement.md) | التحديات التي سعينا لحلها |
-| [🏗️ Solution Architecture](docs/03-solution-architecture.md) | تعمق في تصميم النظام |
-| [✨ Key Features](docs/04-key-features.md) | تفصيل الميزات ميزة تلو الأخرى |
-| [🔧 Technical Decisions](docs/05-technical-decisions.md) | سجلات القرارات التقنية (ADR) |
-| [💡 Challenges & Solutions](docs/06-challenges-solutions.md) | الحلول الهندسية للمشاكل |
-| [⚡ Performance Optimization](docs/07-performance.md) | كيف حققنا تقليل 82% في TBT |
-| [🧪 Testing & Quality](docs/08-testing-quality.md) | نهج ضمان الجودة |
-| [🚀 Deployment & DevOps](docs/09-deployment.md) | البنية التحتية و CI/CD |
-| [📊 Results & Impact](docs/10-results-impact.md) | المقاييس والنتائج |
+| [📋 Overview](docs/ar/01-overview.md) | سياق المشروع والرؤية |
+| [❓ Problem Statement](docs/ar/02-problem-statement.md) | التحديات التي سعينا لحلها |
+| [🏗️ Solution Architecture](docs/ar/03-solution-architecture.md) | تعمق في تصميم النظام |
+| [✨ Key Features](docs/ar/04-key-features.md) | تفصيل الميزات ميزة تلو الأخرى |
+| [🔧 Technical Decisions](docs/ar/05-technical-decisions.md) | سجلات القرارات التقنية (ADR) |
+| [💡 Challenges & Solutions](docs/ar/06-challenges-solutions.md) | الحلول الهندسية للمشاكل |
+| [⚡ Performance Optimization](docs/ar/07-performance.md) | كيف حققنا تقليل 82% في TBT |
+| [🧪 Testing & Quality](docs/ar/08-testing-quality.md) | نهج ضمان الجودة |
+| [🚀 Deployment & DevOps](docs/ar/09-deployment.md) | البنية التحتية و CI/CD |
+| [📊 Results & Impact](docs/ar/10-results-impact.md) | المقاييس والنتائج |
 
 </div>
 
