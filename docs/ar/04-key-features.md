@@ -479,3 +479,9 @@ useEffect(() => {
 *التالي: [05 - القرارات التقنية](05-technical-decisions.md)*
 
 </div>
+
+<div align="center">
+
+[![Prev: Solution Architecture](https://img.shields.io/badge/←_Prev:_Solution_Architecture-1eb8e4?style=for-the-badge)](03-solution-architecture.md) [![Next: Technical Decisions](https://img.shields.io/badge/Next:_Technical_Decisions_→-7565e3?style=for-the-badge)](05-technical-decisions.md)
+
+</div>

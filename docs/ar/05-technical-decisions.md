@@ -9,7 +9,7 @@
 <br/>
 
 [![Prev](https://img.shields.io/badge/%E2%86%90_%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-1eb8e4)](04-key-features.md)
-[![Next](https://img.shields.io/badge/%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA_%E2%86%92-7565e3)](06-challenges-solutions.md)
+[![Next: Challenges & Solutions](https://img.shields.io/badge/Next_→_Challenges_%26_Solutions-7565e3?style=for-the-badge)](06-challenges-solutions.md)
 
 </div>
 
@@ -184,10 +184,6 @@ import { m } from "framer-motion";
 
 <div align="center">
 
----
-
-*التالي: [06 - التحديات والحلول](06-challenges-solutions.md)*
-
-</div>
+[![Prev: Key Features](https://img.shields.io/badge/←_Prev:_Key_Features-1eb8e4?style=for-the-badge)](04-key-features.md) [![Next: Challenges & Solutions](https://img.shields.io/badge/Next:_Challenges_%26_Solutions_→-7565e3?style=for-the-badge)](06-challenges-solutions.md)
 
 </div>

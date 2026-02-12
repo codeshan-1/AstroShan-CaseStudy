@@ -202,12 +202,6 @@
 
 <div align="center">
 
-| التنقل |
-|:----------:|
-| [🚀 ← النشر و DevOps](09-deployment.md) |
-| [📋 العودة للنظرة العامة](01-overview.md) |
-| [🏠 القائمة الرئيسية (Main README)](../../README.ar.md) |
-
-</div>
+[![Prev: Deployment](https://img.shields.io/badge/←_Prev:_Deployment-1eb8e4?style=for-the-badge)](09-deployment.md) [![Index](https://img.shields.io/badge/Back_to_Index-7565e3?style=for-the-badge)](../../README.ar.md)
 
 </div>

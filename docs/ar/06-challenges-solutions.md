@@ -9,7 +9,7 @@
 <br/>
 
 [![Prev](https://img.shields.io/badge/%E2%86%90_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-1eb8e4)](05-technical-decisions.md)
-[![Next](https://img.shields.io/badge/%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1_%E2%86%92-7565e3)](07-performance.md)
+[![Next: Performance](https://img.shields.io/badge/Next_→_Performance-7565e3?style=for-the-badge)](07-performance.md)
 
 </div>
 
@@ -228,10 +228,6 @@ function HeroSection() {
 
 <div align="center">
 
----
-
-*التالي: [07 - تحسين الأداء](07-performance.md)*
-
-</div>
+[![Prev: Technical Decisions](https://img.shields.io/badge/←_Prev:_Technical_Decisions-1eb8e4?style=for-the-badge)](05-technical-decisions.md) [![Next: Performance](https://img.shields.io/badge/Next:_Performance_→-7565e3?style=for-the-badge)](07-performance.md)
 
 </div>

@@ -9,7 +9,7 @@
 <br/>
 
 [![Prev](https://img.shields.io/badge/%E2%86%90_%D9%86%D8%B8%D8%B1%D8%A9_%D8%B9%D8%A7%D9%85%D8%A9-1eb8e4)](01-overview.md)
-[![Next](https://img.shields.io/badge/%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9_%E2%86%92-7565e3)](03-solution-architecture.md)
+[![Next: Solution Architecture](https://img.shields.io/badge/Next_→_Solution_Architecture-7565e3?style=for-the-badge)](03-solution-architecture.md)
 
 </div>
 
@@ -272,10 +272,6 @@
 
 <div align="center">
 
----
-
-*التالي: [03 - معمارية الحل](03-solution-architecture.md)*
-
-</div>
+[![Prev: Overview](https://img.shields.io/badge/←_Prev:_Overview-1eb8e4?style=for-the-badge)](01-overview.md) [![Next: Solution Architecture](https://img.shields.io/badge/Next:_Solution_Architecture_→-7565e3?style=for-the-badge)](03-solution-architecture.md)
 
 </div>

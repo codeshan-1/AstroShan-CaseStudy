@@ -14,13 +14,13 @@
     <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9-1EB8E4?style=for-the-badge"/>
   </a>
   <a href="#-مسار-التوثيق">
-    <img src="https://img.shields.io/badge/%F0%9F%93%9A_Docs-%D8%AA%D8%B5%D9%81%D8%AD_%D8%A7%D9%84%D8%AA%D9%88%D8%AB%D9%8A%D9%82-7565E3?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Read_Docs-7565e3?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
   <a href="#-إحصائيات-المهمة">
-    <img src="https://img.shields.io/badge/%F0%9F%93%8A_Stats-%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA-3F54DE?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/View_Stats-3F54DE?style=for-the-badge&logo=google-analytics&logoColor=white"/>
   </a>
   <a href="README.md">
-    <img src="https://img.shields.io/badge/🇺🇸_English-Read_in_English-gray?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Read_in_English-33325c?style=for-the-badge"/>
   </a>
 </p>
 
@@ -729,7 +729,7 @@ mergeProgress(local, cloud) {
 ## 🌌 استكشف المنصة الحية
 
 <a href="https://astroshan.vercel.app">
-  <img src="https://img.shields.io/badge/🚀_Launch_Demo-astroshan.vercel.app-1EB8E4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Live_Demo-1eb8e4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>

@@ -9,7 +9,7 @@
 <br/>
 
 [![Prev](https://img.shields.io/badge/%E2%86%90_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-1eb8e4)](08-testing-quality.md)
-[![Next](https://img.shields.io/badge/%D8%A7%D9%84%D9%86%D8%AA%D8%A7%D8%A6%D8%AC_%E2%86%92-7565e3)](10-results-impact.md)
+[![Next: Results & Impact](https://img.shields.io/badge/Next_→_Results_%26_Impact-7565e3?style=for-the-badge)](10-results-impact.md)
 
 </div>
 
@@ -199,10 +199,6 @@ git push origin main
 
 <div align="center">
 
----
-
-*التالي: [10 - النتائج والأثر](10-results-impact.md)*
-
-</div>
+[![Prev: Testing & Quality](https://img.shields.io/badge/←_Prev:_Testing_%26_Quality-1eb8e4?style=for-the-badge)](08-testing-quality.md) [![Next: Results & Impact](https://img.shields.io/badge/Next:_Results_%26_Impact_→-7565e3?style=for-the-badge)](10-results-impact.md)
 
 </div>
