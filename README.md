@@ -19,6 +19,9 @@
   <a href="#-mission-stats">
     <img src="https://img.shields.io/badge/📊_Stats-View-3F54DE?style=for-the-badge"/>
   </a>
+  <a href="README.ar.md">
+    <img src="https://img.shields.io/badge/🇪🇬_Arabic-اقرأ_بالعربية-Green?style=for-the-badge&logoColor=white"/>
+  </a>
 </p>
 
 <br/>
