@@ -1,224 +1,105 @@
-<div align="center">
+# 🚀 AstroShan — Immersive 3D Educational Platform
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=1EB8E4&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+AstroShan+Case+Study;Interactive+3D+Learning;Next.js+%7C+Three.js+%7C+WebGL" alt="AstroShan"/>
+> **Teaching web development through space exploration — with 82% TBT reduction while rendering 100,000 particles.**
 
-<br/>
+![AstroShan Hero Banner](screenshots/landing-hero.webp)
+*AstroShan's landing page — an immersive 3D galaxy powered by Web Workers and adaptive rendering.*
 
-### 🌌 An Immersive 3D Educational Platform
+---
 
-> **Teaching web development through space exploration with 82% TBT reduction while rendering 100,000 particles**
+## 📖 Project Overview
 
-<p>
-  <a href="https://astroshan.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-Launch-1EB8E4?style=for-the-badge"/>
-  </a>
-  <a href="#-documentation-trail">
-    <img src="https://img.shields.io/badge/📚_Docs-Explore-7565E3?style=for-the-badge"/>
-  </a>
-  <a href="#-mission-stats">
-    <img src="https://img.shields.io/badge/📊_Stats-View-3F54DE?style=for-the-badge"/>
-  </a>
-  <a href="README.ar.md">
-    <img src="https://img.shields.io/badge/🇪🇬_Arabic-اقرأ_بالعربية-Green?style=for-the-badge&logoColor=white"/>
-  </a>
-</p>
+**AstroShan** is an immersive 3D educational platform that teaches web development through a space exploration metaphor. Instead of passive video tutorials, students board a virtual spaceship and navigate through a galaxy of knowledge — each planet represents a technology module, each mission a real coding challenge with live validation.
 
-<br/>
+The platform was built as a radical departure from "Tutorial Hell," where learners can follow along but struggle to build anything independently. AstroShan adopts a **documentation-first, zero-video** approach: students learn by reading structured interactive lessons, writing real code in an embedded Monaco editor (the same engine as VS Code), and receiving immediate validation feedback. By course completion, students have built a real portfolio website from scratch.
 
-![AstroShan Banner](screenshots/landing-hero.webp)
+A key engineering achievement is the **Adaptive 3D Rendering Pipeline** — a multi-tier system that detects device capabilities and delivers stunning visuals on any hardware. The 100,000-particle galaxy background achieved an **82% Total Blocking Time reduction** by offloading computation to Web Workers. The platform serves the Arabic-speaking developer community specifically, with an RTL-first design and content written in accessible Egyptian Arabic.
 
-<br/>
+---
 
-[![Tech Stack](https://img.shields.io/badge/Stack-Next.js%2016%20%7C%20React%2019%20%7C%20Three.js%20%7C%20MongoDB-1eb8e4?style=flat-square)]()
-[![Performance](https://img.shields.io/badge/TBT-2.5s%20⬇%2082%25-7565e3?style=flat-square)]()
-[![Lessons](https://img.shields.io/badge/Curriculum-67%20Lessons-3f54de?style=flat-square)]()
-[![Status](https://img.shields.io/badge/Status-Production-1cd1bb?style=flat-square)]()
-
-</div>
-
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
-
-<br/>
-
-## 📊 Mission Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <h3>🚀</h3>
-      <b>Duration</b><br/>
-      <sub>6+ Months</sub>
-    </td>
-    <td align="center">
-      <h3>👨‍🚀</h3>
-      <b>Role</b><br/>
-      <sub>Solo Full-Stack</sub>
-    </td>
-    <td align="center">
-      <h3>⭐</h3>
-      <b>Tech Stack</b><br/>
-      <sub>15+ Technologies</sub>
-    </td>
-    <td align="center">
-      <h3>🌌</h3>
-      <b>Particles</b><br/>
-      <sub>100,000</sub>
-    </td>
-    <td align="center">
-      <h3>⚡</h3>
-      <b>TBT Reduction</b><br/>
-      <sub>-82%</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>📚</h3>
-      <b>Lessons</b><br/>
-      <sub>67 Interactive</sub>
-    </td>
-    <td align="center">
-      <h3>🎮</h3>
-      <b>Widgets</b><br/>
-      <sub>35+ Simulations</sub>
-    </td>
-    <td align="center">
-      <h3>💻</h3>
-      <b>Lines of Code</b><br/>
-      <sub>59,170</sub>
-    </td>
-    <td align="center">
-      <h3>🧩</h3>
-      <b>Components</b><br/>
-      <sub>267</sub>
-    </td>
-    <td align="center">
-      <h3>🔧</h3>
-      <b>Custom Hooks</b><br/>
-      <sub>8</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
-
-<br/>
-
-## 🛠️ Technology Galaxy
-
-<div align="center">
-
-**🌟 Frontend Universe**
-<p>
-<img src="https://img.shields.io/badge/Next.js_16-101020?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_19-1eb8e4?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_v4-7565e3?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-**🌀 3D Graphics Nebula**
-<p>
-<img src="https://img.shields.io/badge/Three.js-101020?style=for-the-badge&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Three_Fiber-1eb8e4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web_Workers-3f54de?style=for-the-badge"/>
-</p>
-
-**🎬 Animation & UX**
-<p>
-<img src="https://img.shields.io/badge/Framer_Motion-af4fda?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Monaco_Editor-1eb8e4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS_3D_Engine-7565e3?style=for-the-badge"/>
-</p>
-
-**🛸 Backend & Services**
-<p>
-<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-101020?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jose_JWT-1eb8e4?style=for-the-badge&logo=json-web-tokens"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
-
-<br/>
-
-## 🎯 Mission Overview
-
-### 🌍 The Context
-
-The web development education landscape is dominated by video-based courses where students passively watch instructors code. This creates **"Tutorial Hell"** – learners can follow along but struggle to build anything independently. Meanwhile, professional developers rarely learn from videos; they read documentation, experiment, and solve problems through trial and error.
-
-**AstroShan** was conceived as a radical departure from this paradigm. Instead of another course platform, I envisioned an **immersive learning experience** where students board a virtual spaceship and navigate through a galaxy of knowledge. Each planet represents a technology module, each mission a real coding challenge.
-
-> 🌙 The platform serves the Arabic-speaking developer community specifically, with an RTL-first design and content written in accessible Egyptian Arabic tone.
-
-### ⚡ The Challenge
+## ❓ Problem Statement
 
 Building an immersive 3D educational platform presents a unique engineering paradox:
 
-| Challenge | Description |
-|:---------:|-------------|
-| 🎨 **Visual Richness vs. Performance** | A 100,000 particle galaxy looks stunning but can freeze devices for 14+ seconds |
-| 🎮 **Engagement vs. Learning** | Gamification must serve education, not distract from it |
-| 🔓 **Zero-Friction Entry vs. Persistence** | No forced registration, yet progress must survive across devices |
-| 💻 **Professional Tools vs. Accessibility** | A real code editor (Monaco) must run smoothly on budget smartphones |
+**1. Visual Richness vs. Performance**
+A 100,000-particle animated galaxy looks stunning — but the initial implementation completely froze mobile devices for **14+ seconds** (Total Blocking Time). The 3D visuals that make the platform engaging also made it unusable on the devices students actually own.
 
-### 🚀 The Solution
+**2. Engagement vs. Learning**
+Gamification must serve education, not distract from it. The space theme, 3D effects, and interactive elements must enhance comprehension rather than become entertainment that replaces actual skill-building.
 
-I architected AstroShan around three core principles:
+**3. Zero-Friction Entry vs. Persistence**
+No forced registration — yet student progress must survive across sessions and devices. Anonymous users must be able to complete the entire 67-lesson curriculum, and signing up later must merge all their progress without data loss.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**4. Professional Tools vs. Accessibility**
+A real code editor (Monaco/VS Code engine) must run smoothly on budget smartphones with as little as 2GB RAM — devices that struggle with the editor's base JavaScript bundle alone.
 
-#### ⚙️ Adaptive Rendering Pipeline
-A 3-tier rendering system that detects device capabilities:
-- **High-tier**: Full WebGL galaxy with 100k particles
-- **Medium-tier**: Reduced particle count WebGL
-- **Low-tier**: Canvas 2D fallback with lightweight physics
+---
 
-</td>
-<td width="33%" valign="top">
+## 🚀 Solution & Approach
 
-#### 🔐 Anonymous-First Auth
-Every visitor receives a UUID instantly and can complete the entire curriculum without registration. A 3-way merge algorithm combines anonymous progress with cloud data on login.
+AstroShan is architected around three core engineering principles:
 
-</td>
-<td width="33%" valign="top">
+### 1. Adaptive 3D Rendering Pipeline
 
-#### 📖 Documentation-First Learning
-Zero video content by design. Students learn by reading structured lessons, experimenting in Monaco editor, and receiving real-time validation feedback.
+A 3-tier rendering system that detects device capabilities via `navigator.hardwareConcurrency`:
 
-</td>
-</tr>
-</table>
+| Tier | Target Device | Rendering | Particles |
+|:----:|:-------------|:----------|:---------:|
+| **High** | Flagship phones / desktops | Full WebGL (Three.js) | 100,000 |
+| **Medium** | Mid-range devices | Reduced WebGL | ~30,000 |
+| **Low** | Budget smartphones | Canvas 2D fallback | Lightweight physics |
 
-<br/>
+The particle calculations are offloaded to a dedicated **Web Worker** using `BufferAttribute` transfer (zero-copy), reducing TBT from **14,000ms to 2,500ms** — an **82% improvement**.
 
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
+![Web Worker Galaxy Architecture](diagrams/webworker_galaxy_fixed_1768603947661.webp)
+*Web Worker architecture — particle calculations offloaded from the main thread for 82% TBT reduction.*
 
-<br/>
+```typescript
+// Conceptual architecture — simplified
+export const useGalaxyWorker = (params: GalaxyWorkerParams) => {
+  const [results, setResults] = useState(null);
 
-## 🏗️ System Architecture
+  useEffect(() => {
+    const worker = new Worker(
+      new URL("../lib/workers/galaxyWorker.ts", import.meta.url)
+    );
+    worker.onmessage = (event) => {
+      setResults(event.data); // BufferAttribute transfer — no copying
+      worker.terminate();
+    };
+    worker.postMessage(params);
+  }, [params]);
+
+  return results;
+};
+```
+
+### 2. Anonymous-First Authentication
+
+Every visitor receives a UUID instantly and can complete the entire curriculum without signing up. When they eventually login via Google OAuth, a **3-Way Merge Algorithm** combines their anonymous progress with any existing cloud data:
+
+![3-Way Merge Sync](diagrams/threeway_merge_sync_1768725385978.webp)
+*3-Way Merge — anonymous local progress merges seamlessly with cloud data on login.*
+
+```typescript
+// Conceptual merge logic
+mergeProgress(local, cloud) {
+  return {
+    completedLessons: union(local.lessons, cloud.lessons),   // All completed
+    quizScores: max(local.scores, cloud.scores),             // Highest scores
+    timestamps: latest(local.updated, cloud.updated)         // Most recent
+  };
+}
+```
+
+### 3. Documentation-First Learning
+
+Zero video content by design. Students learn by reading structured lessons, experimenting in the Monaco editor, and receiving real-time DOM-based validation feedback. A progressive hint system reveals clues on failure, and a gatekeeper locks tasks until prerequisites are complete.
+
+![Gatekeeper System](diagrams/gatekeeper_system_bilingual_1768602428077.webp)
+*Gatekeeper System — tasks are locked until prerequisites are completed.*
+
+### System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -248,513 +129,146 @@ Zero video content by design. Students learn by reading structured lessons, expe
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+---
 
-### 🔑 Key Architectural Decisions
+## ✨ Features
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-#### 🏠 CSS 3D Engine
-Pure CSS `transform-style: preserve-3d` (512 lines) for the holographic house progress indicator. Dramatically lighter than Three.js on main thread.
-
-</td>
-<td align="center" width="33%">
-
-#### ⚡ Web Worker Particles
-100k particle calculations moved to dedicated Web Worker with BufferAttribute transfer. Achieved **82% TBT reduction**.
-
-</td>
-<td align="center" width="33%">
-
-#### 🔓 3-Way Merge Auth
-UUID on first visit, optional OAuth, intelligent merge on login. Zero friction to start learning.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
-
-<br/>
-
-## ✨ Key Features
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 Adaptive 3D Galaxy Engine
-A multi-tier rendering system delivering stunning visuals on any device.
-
-**Technical Highlights:**
-- `useDeviceTier` hook detects hardware via `navigator.hardwareConcurrency`
-- Three rendering paths: WebGL → WebGL Reduced → Canvas 2D
-- Web Worker offloads particle calculations
-- `requestIdleCallback` for deferred loading
-
-**Impact:** Smooth 60fps from flagship phones to budget devices
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 CSS 3D Holographic House
-Progress visualization built entirely with CSS transforms.
-
-**Technical Highlights:**
-- Pure CSS `transform-style: preserve-3d`
-- Progress-driven visibility: Foundation → Walls → Roof → Details
-- Orbiting particle rings with CSS animations
-- Pending state (yellow theme) for unauthorized access
-
-**Impact:** Visual motivation without WebGL resources
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✅ Live Code Validation Engine
-Real-time DOM analysis validating student code as they type.
-
-**Technical Highlights:**
-- DOMParser converts HTML to traversable DOM
-- Regex validators check structural requirements
-- Progressive hint system reveals clues on failure
-- Gatekeeper locks tasks until prerequisites complete
-
-**Impact:** Immediate feedback without manual grading
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Cumulative Mission System
-Code persists across missions, building a real website throughout.
-
-**Technical Highlights:**
-- Backward Task Discovery finds previous mission code
-- Auto-save with debounce prevents data loss
-- localStorage + MongoDB sync for cross-device continuity
-- Starter code respects existing project state
-
-**Impact:** Students build a real portfolio by course end
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🔐 Dual-Token Authentication
-
-Enterprise-grade security with seamless user experience:
-
-| Token | Duration | Storage | Protection |
-|:-----:|:--------:|:-------:|:----------:|
-| 🔑 **Access Token** | 15 minutes | In-memory only | XSS prevention |
-| 🔄 **Refresh Token** | 7 days | HttpOnly cookie | CSRF prevention |
-
-- Silent rotation maintains session without interruption
-- Revocation endpoint for secure logout
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
-
-<br/>
-
-## 🚀 Notable Implementations
-
-### ⚡ Web Worker Galaxy Engine
-
-The galaxy background contains 100,000 animated particles. Initial implementation caused **14-second Total Blocking Time** on mobile devices.
-
-```typescript
-// Conceptual architecture - simplified
-export const useGalaxyWorker = (params: GalaxyWorkerParams) => {
-  const [results, setResults] = useState(null);
-  
-  useEffect(() => {
-    const worker = new Worker(
-      new URL("../lib/workers/galaxyWorker.ts", import.meta.url)
-    );
-    
-    worker.onmessage = (event) => {
-      // BufferAttribute transfer - no copying
-      setResults(event.data);
-      worker.terminate();
-    };
-    
-    worker.postMessage(params);
-  }, [params]);
-  
-  return results;
-};
-```
-
-**Result:** TBT reduced from 14s to 2.5s (**-82%**) 🎉
+- **🌌 Adaptive 3D Galaxy Engine** — Multi-tier rendering (WebGL → Canvas 2D fallback) with Web Worker particle processing. Smooth 60fps from flagships to budget devices.
+- **🏠 CSS 3D Holographic House** — Progress visualization built entirely with CSS `transform-style: preserve-3d` (512 lines). Foundation → Walls → Roof → Details build as the student progresses.
+- **✅ Live Code Validation Engine** — Real-time DOM analysis validates student code as they type. DOMParser + regex validators with progressive hint system.
+- **🎯 Cumulative Mission System** — Code persists across missions. Backward Task Discovery finds previous mission code; students build a real website throughout the course.
+- **📝 Monaco Code Editor** — VS Code engine embedded with dynamic import, deferred Emmet initialization, and custom theme for budget device compatibility.
+- **🔐 Dual-Token Authentication** — 15-minute access tokens (in-memory) + 7-day refresh tokens (HttpOnly cookies) with silent rotation.
+- **🔄 3-Way Merge Progress Sync** — Anonymous + cloud progress merge seamlessly on login. Zero data loss guaranteed.
+- **🌍 RTL-First Arabic Design** — Full Arabic content with proper `dir` attributes, Unicode control characters for inline code terms, and RTL-aware UI.
+- **🎬 6 Hero Variants** — Multiple landing page experiences powered by Framer Motion.
+- **📚 67 Interactive Lessons** — 10 Internet Fundamentals + 57 HTML Mastery lessons with 35+ simulation widgets.
 
 ---
 
-### 🔄 3-Way Merge Progress Sync
+## 🛠️ Technologies Used
 
-When a user logs in, their anonymous (local) progress merges with cloud data without data loss.
+| Category | Technologies |
+|:---------|:-------------|
+| **Frontend** | Next.js 16 (App Router), React 19, TypeScript (100% strict) |
+| **3D Graphics** | Three.js, React Three Fiber, WebGL, Web Workers |
+| **CSS 3D** | Pure CSS `preserve-3d` engine (BlueprintHouse — 512 lines) |
+| **Styling** | Tailwind CSS v4, Framer Motion (LazyMotion) |
+| **Code Editor** | Monaco Editor (VS Code engine), Emmet support |
+| **State** | Zustand, React Context |
+| **Backend** | MongoDB Atlas, Cloudinary CDN |
+| **Auth** | Google OAuth 2.0, JOSE JWT (Dual-Token), HttpOnly Cookies |
+| **Deployment** | Vercel (Serverless), Edge Functions |
 
-```typescript
-// Conceptual merge logic
-mergeProgress(local, cloud) {
-  return {
-    completedLessons: union(local.lessons, cloud.lessons),  // All completed
-    quizScores: max(local.scores, cloud.scores),            // Highest scores
-    timestamps: latest(local.updated, cloud.updated)        // Most recent
-  };
-}
-```
+---
 
-**Result:** Zero data loss, seamless anonymous → authenticated transition ✅
+## 📸 Screenshots / Visuals
 
-<br/>
+![Landing Page](screenshots/landing-hero.webp)
+*Landing Page — Immersive 3D galaxy with 100,000 animated particles and adaptive rendering.*
 
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
+![Landing Variant](screenshots/landing-variant.webp)
+*Landing Variant — One of 6 context-aware hero experiences.*
 
-<br/>
+![Context-Aware Hero](screenshots/context-aware-hero.webp)
+*Context-Aware Hero — dynamic greeting and navigation based on user state.*
 
-## 💡 Challenges & Solutions
+![HTML Module](screenshots/html-module.webp)
+*HTML Learning Module — structured lesson navigation with progress tracking and planet metaphor.*
 
-<table>
-<tr>
-<td align="center" width="25%">⚠️</td>
-<td><b>Challenge 1: 14-Second Total Blocking Time</b></td>
-</tr>
-<tr>
-<td colspan="2">
+![Code Editor View](screenshots/html-lesson-view.webp)
+*Live Code Editor — Monaco (VS Code engine) with real-time preview, validation, and progressive hints.*
 
-**Problem:** Galaxy particle generation (100,000 points) completely blocked main thread, freezing mobile devices.
+![Blueprint House](screenshots/blueprint-house.webp)
+*CSS 3D Holographic House — progress visualization built entirely with CSS transforms. Layers unlock as lessons are completed.*
 
-**Solution:** 
-- ⚡ Moved particle generation to Web Worker
-- ⏱️ Implemented `requestIdleCallback` for deferred loading
-- 📱 Adaptive particle count (12k mobile → 100k desktop)
-- 🎨 Canvas 2D fallback for WebGL-incapable devices
+![Widget Showcase](screenshots/widget-showcase.webp)
+*Interactive Widgets — 35+ physics simulations and interactive demonstrations embedded within lessons.*
 
-**Result:** TBT reduced from **14,000ms → 2,500ms (-82%)**
+![Mobile View](screenshots/mobile-view-1.webp)
+*Mobile Responsive — adaptive rendering with reduced particle count ensures smooth mobile experience.*
 
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">💻</td>
-<td><b>Challenge 2: Monaco Editor on Low-End Devices</b></td>
-</tr>
-<tr>
-<td colspan="2">
+![Mobile View 2](screenshots/mobile-view-2.webp)
+*Mobile lesson view — RTL-aware responsive layout on smartphone screens.*
 
-**Problem:** Monaco Editor (VS Code engine) caused noticeable janks on budget smartphones.
+![Anonymous-First Auth](diagrams/anonymous_first_auth_1768725256945.webp)
+*Anonymous-First Authentication — every visitor gets a UUID instantly, full access without registration.*
 
-**Solution:**
-- 📦 Dynamic import with `next/dynamic` and `ssr: false`
-- 🔀 Split editor from preview panel (React Resizable Panels)
-- ⏳ Deferred Emmet initialization until first interaction
-- 🎨 Custom theme to reduce CSS parsing
+![Backward Task Discovery](diagrams/backward_task_discovery_bilingual_1768602050087.webp)
+*Backward Task Discovery — cumulative mission system finds previous code across lessons.*
 
-**Result:** Editor loads smoothly on devices with **2GB RAM**
+---
 
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">🔄</td>
-<td><b>Challenge 3: RTL/Arabic Content in Code Editor</b></td>
-</tr>
-<tr>
-<td colspan="2">
+## 🧪 How to Use / Demo
 
-**Problem:** Code is LTR, but platform is Arabic-first (RTL). Mixing directions caused rendering bugs.
+### Live Demo
+👉 Visit **[astroshan.vercel.app](https://astroshan.vercel.app)** to explore the full platform.
 
-**Solution:**
-- 📝 Code editor remains LTR (standard for programming)
-- 📄 Lesson content uses proper `dir` attributes per element
-- 🔤 Unicode control characters for inline technical terms
-- 🎨 Custom CSS for RTL-aware UI around LTR code
+### Getting Started
+1. **Open the app** — You receive a UUID instantly and can start learning without any registration.
+2. **Explore the Galaxy** — Navigate the 3D star map to discover learning modules (Internet Fundamentals, HTML Mastery).
+3. **Start a Lesson** — Click on any lesson planet to read the structured documentation and interactive widgets.
+4. **Write Real Code** — Open the Monaco code editor, write HTML, and see your changes rendered in real-time.
+5. **Complete Tasks** — Pass the validation checks to unlock the next lesson. Hints are progressively revealed on failure.
+6. **Watch your House Build** — The CSS 3D holographic house on your profile reflects your course progress.
+7. **Sign Up (Optional)** — Login with Google to sync progress to the cloud. All anonymous progress merges automatically.
 
-**Result:** Natural reading flow for Arabic, proper code rendering
+---
 
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">🔐</td>
-<td><b>Challenge 4: Progress Sync Without Race Conditions</b></td>
-</tr>
-<tr>
-<td colspan="2">
+## 📊 Impact / Results
 
-**Problem:** localStorage, MongoDB, and real-time updates could cause race conditions and data loss.
-
-**Solution:**
-- 🚫 `skipSync` parameter prevents sync loops
-- ⚛️ MongoDB `$addToSet` for atomic updates
-- 📡 Event-driven sync via `local-storage-update` custom events
-- 🔒 Deduplication via Promise caching in token refresh
-
-**Result:** Consistent progress across devices, **zero data loss**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
-
-<br/>
-
-## 📊 Results & Impact
-
-### ⚡ Performance Metrics
-
-<div align="center">
+### Performance Achievements
 
 | Metric | Before | After | Improvement |
 |:------:|:------:|:-----:|:-----------:|
 | **Total Blocking Time** | 14,000ms | 2,500ms | 🔥 **-82%** |
-| **Particle Count (Mobile)** | 100,000 | 12,000 | 📱 **Adaptive** |
-| **Initial JS Bundle** | Heavy | LazyMotion split | ⚡ **Significant** |
-| **Server-Side LCP** | ~500ms | 0ms | 🚀 **Instant** |
+| **Particle Count (Mobile)** | 100,000 (frozen) | 12,000 (smooth) | 📱 **Adaptive** |
+| **Initial JS Bundle** | Monolithic | LazyMotion split | ⚡ **Significant** |
+| **Editor Load (2GB RAM)** | Janky / crashed | Smooth | ✅ **Fixed** |
 
-</div>
-
-### ✅ Technical Achievements
-
-<table>
-<tr>
-<td>
-
-- ✅ Built 3-tier adaptive rendering (WebGL → Canvas fallback)
-- ✅ Web Worker architecture for 100k particle processing
-- ✅ CSS 3D engine without WebGL dependency (512 lines)
-- ✅ Dual-token JWT with automatic silent rotation
-
-</td>
-<td>
-
-- ✅ Developed 35+ interactive physics/simulation widgets
-- ✅ Achieved 67 complete lessons (10 Internet + 57 HTML)
-- ✅ Anonymous-first auth with 3-way merge sync
-- ✅ 100% TypeScript coverage
-
-</td>
-</tr>
-</table>
-
-### 📚 Educational Content
-
-<div align="center">
-
-| Module | Lessons | Widgets | Status |
-|:------:|:-------:|:-------:|:------:|
-| 🌐 Internet Fundamentals | 10 | 10 simulations | ✅ Complete |
-| 📄 HTML Mastery | 57 | 25+ interactive | ✅ Complete |
-| **Total** | **67** | **35+** | 🚀 Production |
-
-</div>
-
-### 📈 Codebase Quality
-
-<div align="center">
+### Codebase Quality
 
 | Metric | Value |
 |:------:|:-----:|
-| 📝 Total Lines of Code | **59,170** |
-| 🔷 TypeScript Coverage | **100%** |
-| 🧩 Component Count | **267** |
-| 🔧 Custom Hooks | **8** |
-| 🔌 API Routes | **7** |
+| Total Lines of Code | **59,170** |
+| TypeScript Coverage | **100% Strict** |
+| Component Count | **267** |
+| Custom Hooks | **8** |
+| API Routes | **7** |
+| Interactive Widgets | **35+** |
+| Lessons | **67 (10 Internet + 57 HTML)** |
 
-</div>
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
-
-<br/>
-
-## 🎓 Key Learnings
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💡 Technical Insights
-
-**⚡ Web Workers Transform Performance**
-The 82% TBT reduction proved CPU-bound work should *always* be offloaded. Complexity overhead is minimal compared to UX gains.
-
-**🎨 CSS 3D is Underrated**
-BlueprintHouse shows CSS `preserve-3d` creates impressive 3D visuals without WebGL overhead. For ambient effects, CSS is often better.
-
-**🔓 Anonymous-First Reduces Friction**
-Allowing full access without registration lets users experience value before committing. 3-way merge makes sign-up seamless.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏗️ Architecture Insights
-
-**📱 Adaptive Systems Beat Fixed Configs**
-Building detection and fallback systems ensures widest possible device reach.
-
-**🧩 Separation of Concerns Enables Optimization**
-Clear separation between rendering tiers, state management, and API routes allowed surgical optimization.
-
-**📖 Documentation-First Content Scales**
-Treating lessons like documentation (structured, searchable, progressive) scales without video production overhead.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
-
-<br/>
-
-## 📚 Documentation Trail
-
-Explore detailed documentation:
-
-<div align="center">
-
-| Document | Description |
-|:--------:|:------------|
-| [📋 Overview](docs/01-overview.md) | Project context and vision |
-| [❓ Problem Statement](docs/02-problem-statement.md) | The challenges we set out to solve |
-| [🏗️ Solution Architecture](docs/03-solution-architecture.md) | System design deep dive |
-| [✨ Key Features](docs/04-key-features.md) | Feature-by-feature breakdown |
-| [🔧 Technical Decisions](docs/05-technical-decisions.md) | ADR-style decision records |
-| [💡 Challenges & Solutions](docs/06-challenges-solutions.md) | Engineering problem-solving |
-| [⚡ Performance Optimization](docs/07-performance.md) | How we achieved 82% TBT reduction |
-| [🧪 Testing & Quality](docs/08-testing-quality.md) | Quality assurance approach |
-| [🚀 Deployment & DevOps](docs/09-deployment.md) | Infrastructure and CI/CD |
-| [📊 Results & Impact](docs/10-results-impact.md) | Metrics and outcomes |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
-
-<br/>
-
-## 🖼️ Mission Gallery
-
-<div align="center">
-
-| 🌌 Landing Page | 📄 HTML Module | 💻 Code Editor |
-|:---------------:|:--------------:|:--------------:|
-| ![Landing](screenshots/landing-hero.webp) | ![HTML Module](screenshots/html-module.webp) | ![Editor](screenshots/html-lesson-view.webp) |
-
-| 🏠 Blueprint House | 🎮 Widget Showcase | 📱 Mobile View |
-|:------------------:|:------------------:|:--------------:|
-| ![House](screenshots/blueprint-house.webp) | ![Widgets](screenshots/widget-showcase.webp) | ![Mobile](screenshots/mobile-view-1.webp) |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
-
-<br/>
-
-## ⚠️ Repository Note
-
-<div align="center">
-
-> This is a **case study repository** showcasing technical approach and learnings.  
-> The actual project code is proprietary and not publicly available.
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" valign="top" width="50%">
-
-### ✅ What's Included
-- 📐 Architectural diagrams and documentation
-- 📝 Technical decision records
-- ⚡ Performance optimization strategies
-- 💻 Code samples (conceptual/simplified)
-
-</td>
-<td align="center" valign="top" width="50%">
-
-### ❌ What's NOT Included
-- 🔒 Actual source code
-- 📚 Proprietary educational content
-- 📊 User data or analytics
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🌌 Explore the Live Platform
-
-<a href="https://astroshan.vercel.app">
-  <img src="https://img.shields.io/badge/🚀_Launch_Demo-astroshan.vercel.app-1EB8E4?style=for-the-badge"/>
-</a>
-
-<br/><br/>
+### Educational Impact
+- **Zero-friction onboarding** — No signup required to complete the entire curriculum.
+- **Real portfolio as outcome** — Students build an actual website throughout the cumulative mission system.
+- **Device-inclusive** — Adaptive rendering ensures learners on budget smartphones are not excluded.
+- **Arabic-first content** — Serves an underrepresented developer community with native RTL design.
 
 ---
 
-**Want to discuss this project?**
+## 🎓 Conclusion / Takeaways
 
-<p>
-<a href="https://codeshan.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-codeshan.vercel.app-7565e3?style=flat-square&logo=vercel"/>
-</a>
-<a href="https://github.com/codeshan-1">
-  <img src="https://img.shields.io/badge/GitHub-codeshan-181717?style=flat-square&logo=github"/>
-</a>
-</p>
+AstroShan proves that **immersive 3D experiences and performance are not mutually exclusive** — with the right architecture. The 82% TBT reduction demonstrates that CPU-bound computation belongs in Web Workers, not on the main thread. The CSS 3D engine (BlueprintHouse) shows that stunning 3D visuals don't always require WebGL overhead.
+
+**Key Insights:**
+- **Web Workers transform performance** — The 82% TBT reduction proves CPU-bound work should *always* be offloaded. The complexity overhead is minimal compared to UX gains.
+- **CSS 3D is underrated** — Pure CSS `preserve-3d` creates impressive ambient 3D visuals without any WebGL resources.
+- **Anonymous-first reduces friction** — Allowing full curriculum access without registration lets users experience value before committing. 3-way merge makes sign-up seamless.
+- **Adaptive systems beat fixed configurations** — Building detection and fallback paths ensures the widest possible device reach.
+- **Documentation-first content scales** — Treating lessons like documentation (structured, searchable, progressive) scales without video production overhead.
+
+AstroShan represents a new paradigm for web development education: **learn by building, not by watching**.
 
 ---
 
-<br/>
+## 🔗 References / Links
 
-Built with 💜 by **CodeShan**
+- 🌐 **Live Demo:** [astroshan.vercel.app](https://astroshan.vercel.app)
+- 🌐 **Portfolio:** [codeshan.vercel.app](https://codeshan.vercel.app)
+- 🐙 **GitHub:** [github.com/codeshan-1](https://github.com/codeshan-1)
+- 💼 **LinkedIn:** [linkedin.com/in/codeshan](https://www.linkedin.com/in/codeshan/)
+- 📚 **Full Documentation:** [Case Study Docs](docs/01-overview.md)
 
-⭐ Star this repo if you found it helpful!
+---
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
-
-</div>
+*Built with 💜 by **CodeShan***
